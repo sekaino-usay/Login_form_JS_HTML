@@ -128,7 +128,4 @@ JavaScript と HTML のみで簡単なログインフォームを作成する方
 ---
 
 ## おわりに
-
-ログインフォームを作成することができたでしょうか？
-
-もしわからないところがあれば, 僕の Twitter（[@sekaino_usay](https://twitter.com/sekaino_usay)）の DM, メール（[sekaino.usay@gmail.com](mailto:sekaino.usay@gmail.com)）、または Discord（`sekaino_usay#4022`）に質問を送ってください！（この記事のコメント欄に書いていただいても良いですよ！）
+質問などは, 僕の Twitter（[@sekaino_usay](https://twitter.com/sekaino_usay)）の DM, メール（[sekaino.usay@gmail.com](mailto:sekaino.usay@gmail.com)）、または Discord（`sekaino_usay#4022`）に送ってください！

@@ -1,4 +1,4 @@
-# JavaScript と HTML で簡単なログインフォームを作る
+# JavaScript と HTML だけ作った簡単なログインフォーム
 
 ## はじめに
 
